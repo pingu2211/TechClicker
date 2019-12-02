@@ -1,7 +1,6 @@
 # TechClicker
 ## Install Python
-sudo apt-get install python3
-sudo apt-get install python3-pip
+sudo apt-get install python3 python3-pip
 
 ## Install Firefox
 sudo apt-get install firefox
