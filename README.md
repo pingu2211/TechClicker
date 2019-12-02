@@ -26,8 +26,8 @@ rm geckodriver-v0.26.0-linux64.tar.gz``
 ``nohup python3 TechClicker.py``  
 
 ## Using the Install script
-``wget https://raw.githubusercontent.com/pingu2211/TechClicker/master/UbuntuSetupScript.sh<br>
-sudo chmod +x UbuntuSetupScript.sh<br>
-./UbuntuSetupScript.sh<br>
-wget https://raw.githubusercontent.com/pingu2211/TechClicker/master/TechClicker.py<br>
+``wget https://raw.githubusercontent.com/pingu2211/TechClicker/master/UbuntuSetupScript.sh  
+sudo chmod +x UbuntuSetupScript.sh  
+./UbuntuSetupScript.sh  
+wget https://raw.githubusercontent.com/pingu2211/TechClicker/master/TechClicker.py  
 nohup python3 TechClicker.py``
