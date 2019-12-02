@@ -11,7 +11,7 @@ Before either install options
 ``sudo apt-get install firefox``
 
 ### Install Selenium
-``sudo pip install selenium``
+``sudo pip install selenium || sudo pip3 install selenium``
 
 ### Install GeckoDriver
 ``wget https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz`` 
